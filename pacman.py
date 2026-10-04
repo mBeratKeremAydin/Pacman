@@ -1,3 +1,13 @@
+"""Pacman, classic arcade game (extended version).
+
+Derived from pacman.py in Free Python Games by Grant Jenks
+(https://github.com/grantjenks/free-python-games), licensed under the
+Apache License, Version 2.0 (see LICENSE and NOTICE).
+
+Modified: adds a mode menu (unlimited / limited), three difficulty levels,
+a win condition, win and game-over screens, and two more ghosts.
+"""
+
 from random import choice
 from turtle import *
 from freegames import floor, vector

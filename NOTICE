@@ -1,0 +1,8 @@
+Pacman (extended)
+
+This project includes code derived from Free Python Games
+(https://github.com/grantjenks/free-python-games),
+Copyright 2017-2023 Grant Jenks, licensed under the Apache License, Version 2.0.
+
+Modifications copyright 2025 Berat Kerem Aydın, also licensed under the Apache License, Version 2.0.
+See pacman.py for the list of changes.
